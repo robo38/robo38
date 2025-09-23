@@ -8,11 +8,20 @@
 <h2 align="center">💫 About Me:</h2>
 <ul>
   <h3><bold>Web Developer using :</bold></h3>
-  <li>FrontEnd: React, SASS, Tailwind</li>
-  <li>BackEnd: Express, Next</li>
+  <li>Web FrontEnd : React, SASS, Tailwind</li>
+  <li>Web BackEnd : Express, Next, Typescript</li>
   <li>DataBase: mongoDB, SQL</li>
+  <li>Package Manager : npm, pnpm, bun</li>
+  <li>Testing : jest, React testing Component</li>
   <li>Use Typescript in all my projects</li>
-  <li>ther Skills: Discord Bots</li>
+  <li>Other Skills: Discord Bots</li>
+  <br />
+  <h3><bold>Collaboration / Networking :</bold></h3>
+  <li>Enterprise Video Collaboration (Huawei HCIA-Collaboration)</li>
+  <li>Endpoints & Servers: Box 610, IdeaHub, Camera C200</li>
+  <li>Media & Management Tools: SMC, SC, CloudMCU, CloudRSE</li>
+  <li>Deployment Types: Bare Metal, Software-Based, Virtualization</li>
+  <li>Networking Basics: IP, VLAN, DR/HA, Failover Procedures</li>
 </ul>
 
 <h2 align="center">💻 Tech Stack:</h2>
