@@ -16,7 +16,7 @@
   <li>Use Typescript in all my projects</li>
   <li>Other Skills: Discord Bots</li>
   <br />
-  <h3><bold>Collaboration / Networking :</bold></h3>
+  <h3><bold>Collaboration / Networking : </bold></h3>
   <li>Enterprise Video Collaboration (Huawei HCIA-Collaboration)</li>
   <li>Endpoints & Servers: Box 610, IdeaHub, Camera C200</li>
   <li>Media & Management Tools: SMC, SC, CloudMCU, CloudRSE</li>
