@@ -43,3 +43,5 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RoBoCRAFTYT01&theme=tokyo-night&hide_border=true)
