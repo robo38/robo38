@@ -30,12 +30,12 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=RoBoCRAFTYT01&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=robo38&show_icons=true&theme=tokyonight"
     height="160"
     alt="GitHub statistics card showing repositories, commits, and contributions for Elorabi Abd Erraouf"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=RoBoCRAFTYT01&theme=tokyonight"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=robo38&theme=tokyonight"
     height="160"
     alt="GitHub contribution streak statistics for Elorabi Abd Erraouf showing daily activity"
   />
@@ -58,4 +58,4 @@
   </a>
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RoBoCRAFTYT01&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robo38&theme=tokyo-night&hide_border=true)
