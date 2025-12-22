@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Elorabi Abd Erraouf 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&center=true&width=500&lines=Full+Stack+Web+Developer;TypeScript+%7C+Next.js+%7C+Bun;Backend+%26+Discord+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&center=true&width=500&lines=Full+Stack+Web+Developer;TypeScript+%7C+Next.js+%7C+Bun;Backend+%26+Discord+Automation" alt="Animated typing banner introducing Elorabi Abd Erraouf, a full stack web developer specializing in TypeScript, Next.js, Bun, backend development, and Discord automation" />
 </p>
 
 ## 🚀 About Me
@@ -29,18 +29,32 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoBoCRAFTYT01&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoBoCRAFTYT01&theme=tokyonight" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RoBoCRAFTYT01&show_icons=true&theme=tokyonight"
+    height="160"
+    alt="GitHub statistics card showing repositories, commits, and contributions for Elorabi Abd Erraouf"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=RoBoCRAFTYT01&theme=tokyonight"
+    height="160"
+    alt="GitHub contribution streak statistics for Elorabi Abd Erraouf showing daily activity"
+  />
 </p>
 
 ## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://discord.com/users/695223884735053905">
-    <img src="https://skillicons.dev/icons?i=discord" />
+    <img 
+      src="https://skillicons.dev/icons?i=discord"
+      alt="Discord profile link for Elorabi Abd Erraouf"
+    />
   </a>
   <a href="mailto:elorabi.abdelrraouf.2007@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img 
+      src="https://skillicons.dev/icons?i=gmail"
+      alt="Email contact link to reach Elorabi Abd Erraouf"
+    />
   </a>
 </p>
 
