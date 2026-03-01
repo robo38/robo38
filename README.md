@@ -67,5 +67,5 @@
 <!---------------- BADGES ---------------->
 
 [badge-github]: https://img.shields.io/badge/robo38-0D1117?style=for-the-badge&logo=github&logoColor=4169E1
-[badge-discord]: https://img.shields.io/badge/robo._.38-0D1117?style=for-the-badge&logo=discord&logoColor=4169E1
-[badge-instagram]: https://img.shields.io/badge/raouf._.159-0D1117?style=for-the-badge&logo=instagram&logoColor=4169E1
+[badge-discord]: https://img.shields.io/badge/robo.__.38-0D1117?style=for-the-badge&logo=discord&logoColor=4169E1
+[badge-instagram]: https://img.shields.io/badge/raouf.__.159-0D1117?style=for-the-badge&logo=instagram&logoColor=4169E1
