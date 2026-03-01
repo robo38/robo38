@@ -13,7 +13,7 @@
 
 <br />
 
-![Discord Presence](https://lanyard.cnrad.dev/api/695223884735053905?theme=dark&bg=0d1117&borderRadius=8px)
+<img src="https://lanyard.cnrad.dev/api/695223884735053905?theme=dark&bg=0d1117&borderRadius=8px" />
 
 </div>
 
