@@ -1,16 +1,26 @@
-<h1 align="center">Hi, I'm Elorabi Abd Erraouf 👋</h1>
+<div align="center">
+  
+<h1>Hi, I'm Elorabi Abd Erraouf 👋</h1>
 
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&center=true&width=500&lines=Full+Stack+Web+Developer;TypeScript+%7C+Next.js+%7C+Bun;Backend+%26+Discord+Automation" alt="Animated typing banner introducing Elorabi Abd Erraouf, a full stack web developer specializing in TypeScript, Next.js, Bun, backend development, and Discord automation" />
-</p>
 
-## 🚀 About Me
-- Full Stack Web Developer  
-- Strong focus on **TypeScript everywhere**
-- Build scalable web apps & Discord bots
-- Interested in backend architecture, automation, and clean code
 
-## 🛠️ Tech Stack
+<br />
+
+[![][badge-instagram]](https://www.instagram.com/raouf._.159/)
+[![][badge-discord]](https://discord.gg/3vfqhtgZM5)
+[![][badge-github]](https://github.com/robo38)
+
+<br />
+
+![Discord Presence](https://lanyard.cnrad.dev/api/695223884735053905?theme=dark&bg=0d1117&borderRadius=8px)
+
+</div>
+
+---
+
+<div align="center">
+
 | Category | Stack |
 |--------|-------|
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat&logo=ejs&logoColor=black) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=radixui&logoColor=white) |
@@ -26,36 +36,34 @@
 | **Design & Media** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) ![Premiere](https://img.shields.io/badge/Premiere-9999FF?style=flat&logo=adobepremierepro&logoColor=white) |
 | **Other** | Discord Bots, Automation |
 
+</div>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=robo38&show_icons=true&theme=tokyonight"
-    height="160"
-    alt="GitHub statistics card showing repositories, commits, and contributions for Elorabi Abd Erraouf"
-  />
-  <img 
+<div align="center">
+
+<img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=robo38&theme=tokyonight"
     height="160"
     alt="GitHub contribution streak statistics for Elorabi Abd Erraouf showing daily activity"
-  />
-</p>
+/>
 
-## 🔗 Connect with Me
+<br />
 
-<p align="center">
-  <a href="https://discord.com/users/695223884735053905">
-    <img 
-      src="https://skillicons.dev/icons?i=discord"
-      alt="Discord profile link for Elorabi Abd Erraouf"
-    />
-  </a>
-  <a href="mailto:elorabi.abdelrraouf.2007@email.com">
-    <img 
-      src="https://skillicons.dev/icons?i=gmail"
-      alt="Email contact link to reach Elorabi Abd Erraouf"
-    />
-  </a>
-</p>
+---
+
+> *Patterns, logic, precision, I see the system behind the noise***
+
+<br />
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robo38&theme=tokyo-night&hide_border=true)
+
+<br />
+
+`© 2024 — Elorabi Abd Erraouf ( RoBo )`
+
+</div>
+
+<!---------------- BADGES ---------------->
+
+[badge-github]: https://img.shields.io/badge/robo38-0D1117?style=for-the-badge&logo=github&logoColor=4169E1
+[badge-discord]: https://img.shields.io/badge/robo._.38-0D1117?style=for-the-badge&logo=discord&logoColor=4169E1
+[badge-instagram]: https://img.shields.io/badge/raouf._.159-0D1117?style=for-the-badge&logo=instagram&logoColor=4169E1
