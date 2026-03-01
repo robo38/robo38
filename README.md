@@ -13,7 +13,9 @@
 
 <br />
 
-<img src="https://lanyard.cnrad.dev/api/695223884735053905?theme=dark&bg=0d1117&borderRadius=8px" />
+<a herf="#">
+  <img src="https://lanyard.cnrad.dev/api/695223884735053905?theme=dark&bg=0d1117&borderRadius=8px" />
+</a>
 
 </div>
 
